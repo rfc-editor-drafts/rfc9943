@@ -1,3 +1,29 @@
 {
-  "publications": []
+  "publications": [
+    {
+      "rfcNumber": 9943,
+      "files": [
+        {
+          "path": "rfc9943.html",
+          "type": "html"
+        },
+        {
+          "path": "rfc9943.notprepped.xml",
+          "type": "notprepped"
+        },
+        {
+          "path": "rfc9943.pdf",
+          "type": "pdf"
+        },
+        {
+          "path": "rfc9943.txt",
+          "type": "txt"
+        },
+        {
+          "path": "rfc9943.xml",
+          "type": "xml"
+        }
+      ]
+    }
+  ]
 }

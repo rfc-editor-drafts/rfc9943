@@ -1637,18 +1637,9 @@ Table of Contents
    [in-toto]  "in-toto", <https://in-toto.io/>.
 
    [ISO_IEC_17000]
-              ISO/IEC, "Conformity assessment — Vocabulary and general
+              ISO/IEC, "Conformity assessment - Vocabulary and general
               principles", ISO/IEC 17000:2020, December 2020,
               <https://www.iso.org/standard/73029.html>.
-
-   [NIST.SP.800-204C]
-              Chandramouli, R., "Implementation of DevSecOps for a
-              Microservices-based Application with Service Mesh",
-              DOI 10.6028/NIST.SP.800-204C, NIST Special Publications
-              (General) 800-204C, NIST SP 800-204C,
-              DOI 10.6028/NIST.SP.800-204C, March 2022,
-              <https://nvlpubs.nist.gov/nistpubs/SpecialPublications/
-              NIST.SP.800-204C.pdf>.
 
    [NIST.SP.1800-19]
               Bartock, M., Dodson, D., Souppaya, M., Carroll, D.,
@@ -1662,6 +1653,15 @@ Table of Contents
               2022,
               <https://nvlpubs.nist.gov/nistpubs/SpecialPublications/
               NIST.SP.1800-19.pdf>.
+
+   [NIST.SP.800-204C]
+              Chandramouli, R., "Implementation of DevSecOps for a
+              Microservices-based Application with Service Mesh",
+              DOI 10.6028/NIST.SP.800-204C, NIST Special Publications
+              (General) 800-204C, NIST SP 800-204C,
+              DOI 10.6028/NIST.SP.800-204C, March 2022,
+              <https://nvlpubs.nist.gov/nistpubs/SpecialPublications/
+              NIST.SP.800-204C.pdf>.
 
    [NIST_EO14028]
               NIST, "Software Supply Chain Security Guidance Under
